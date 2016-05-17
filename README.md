@@ -7,7 +7,7 @@ Limit the number of opened buffers. Old buffers will be automatically closed.
 Plugin 'jasonleakey/vim-bufmax'
 ```
 
-### variable
+### Global Variable
 the number of buffers to keep. 
 ```
 let g:nb_buffers_to_keep = 10
