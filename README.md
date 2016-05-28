@@ -1,5 +1,5 @@
 # VIM-BUFMAX
-Limit the number of opened buffers. Old unsaved buffers will be automatically closed.
+Limit the number of opened buffers. Old unsaved buffers will be automatically closed, so you focus on the recent buffers.
 
 ## Setup
 ### Vundle
